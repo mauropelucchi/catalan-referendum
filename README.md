@@ -13,7 +13,7 @@ The integration with Twitter is build with [Twitter Components Pack for Talend]h
 
 # Script
 
-The catalogna2017.scala script refers to all the analysis. We have followed this macro-step: deduplication, tokenization, cleaning stopwords, lemmazation and finally polarization.
+The catalogna2017.scala script refers to all the analysis. We have followed this macro-step: deduplication, tokenization, cleaning stopwords, lemmatization and finally polarization.
 The cluster are created with LDA analysis.
 
 The dictonary for polarization are from ML-SentiCON: Cruz, Fermín L., José A. Troyano, Beatriz Pontes, F. Javier Ortega. Building layered, multilingual sentiment lexicons at synset and lemma levels, Expert Systems with Applications, 2014.
