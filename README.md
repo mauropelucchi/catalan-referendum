@@ -1,21 +1,22 @@
 # Catalan referendum: Explain #Catalonia 2017
 
 This repository contains data and script from the analysis of tweets scraped during Catalan Referendum of 2017.
-The full analysis is published [here](http://www.mauropelucchi.com/labs/referendumcat/index.html)
+The full analysis is published [here](http://www.mauropelucchi.com/labs/referendumcat/index.html).
 
 # Tweets
 
-The tweets (about 420,000) are available under the data folder.
+The tweets (about 420,000) are available under the data folder in CSV format.
 We have collected tweets from 29 September to 2 October with reference to keywords such 
 as "catalonia","referendum","barcelona","barca", ...
+
+The integration with Twitter is build with [Twitter Components Pack for Talend]https://gabrielebaldassarre.com/talend/twitter-components-talend/. The Talend job creare a collection in MongoDB database.
 
 # Script
 
 The catalogna2017.scala script refers to all the analysis. We have followed this macro-step: deduplication, tokenization, cleaning stopwords, lemmazation and finally polarization.
 The cluster are created with LDA analysis.
 
-The dictonary for polarization are from ML-SentiCON:
-'ML-SentiCON: Cruz, Fermín L., José A. Troyano, Beatriz Pontes, F. Javier Ortega. Building layered, multilingual sentiment lexicons at synset and lemma levels, Expert Systems with Applications, 2014.
+The dictonary for polarization are from ML-SentiCON: Cruz, Fermín L., José A. Troyano, Beatriz Pontes, F. Javier Ortega. Building layered, multilingual sentiment lexicons at synset and lemma levels, Expert Systems with Applications, 2014.
 
 
 # Output
