@@ -1,7 +1,7 @@
 # Catalan referendum: Explain #Catalonia 2017
 
 This repository contains data and script from the analysis of tweets scraped during Catalan Referendum of 2017.
-The full analysis is published here (http://www.mauropelucchi.com/labs/referendumcat/index.html)
+The full analysis is published [here](http://www.mauropelucchi.com/labs/referendumcat/index.html)
 
 # Tweets
 
@@ -27,6 +27,6 @@ The output data are organized in CSV files:
 
 # Stopwords
 
-Stopwords (catalan, spanish and english) are from https://github.com/stopwords-iso(https://github.com/stopwords-iso)
+Stopwords (catalan, spanish and english) are from [https://github.com/stopwords-iso](https://github.com/stopwords-iso)
 
 
