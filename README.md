@@ -9,7 +9,7 @@ The tweets (about 420,000) are available under the data folder in CSV format.
 We have collected tweets from 29 September to 2 October with reference to keywords such 
 as "catalonia","referendum","barcelona","barca", ...
 
-The integration with Twitter is build with [Twitter Components Pack for Talend]https://gabrielebaldassarre.com/talend/twitter-components-talend/. The Talend job creare a collection in MongoDB database.
+The integration with Twitter is build with [Twitter Components Pack for Talend](https://gabrielebaldassarre.com/talend/twitter-components-talend/). The Talend job creare a collection in MongoDB database.
 
 # Spark Script
 
