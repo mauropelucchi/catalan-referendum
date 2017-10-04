@@ -1,0 +1,41 @@
+{
+ "name": "referendumCAT",
+ "children": [
+  {
+   "name": "image_1",
+    "order": 1,
+   "children": [
+
+     {"name": "cluster_1",  "label": "Together for Yes", "link":"images/1.jpg", "size": 68, "features": "antidemocr aportar carl catalu compensar consejero currar desconexi ekyyxlbjmv empresa ensayar espa evi graciar hacer ideo imposible impresionante internar inversor leader legitimidad milo nicol observador parir pasar perfecto propio puigdemont rajar rcel realiz reclamar referendumcat represivo resultar rufi santo say separar slobodan teng tristemente ultraviolenta uribe vereis win"},
+     {"name": "cluster_10",  "label": "independence", "link":"images/10.jpg", "size": 28, "features": "anunciar carles catalán declarar generalitat independencia madurar marchar mente parar poblar poder porrazo puigdemont rajoy verdad"},
+     {"name": "cluster_11",  "label": "Rajoy", "link":"images/11.jpg", "size": 35, "features": "espa hoy rajoy ser venezuela"},
+     {"name": "cluster_12",  "label": "the referendum", "link":"images/12.jpg", "size": 30, "features": "catalu celebrar colegio domingo electoral futur independentista moncloa ndum referendum referir"},
+     {"name": "cluster_13",  "label": "satire and humor", "link":"images/13.jpg", "size": 44, "features": "bezerradasn existir humor"},
+     {"name": "cluster_15",  "label": "catalonia", "link":"images/15.png", "size": 27, "features": "catalu"}
+     ]
+  },
+    {
+   "name": "image_2",
+    "order": 2,
+   "children": [
+     {"name": "cluster_16",  "label": "citizens' rights", "link":"images/16.jpg", "size": 28, "features": "celebrar cuidar referir"},
+     {"name": "cluster_17",  "label": "urn of the referendum", "link":"images/17.jpg", "size": 51, "features": "cerrar ndum referendum referir urna ver"},
+     {"name": "cluster_18",  "label": "the Constitution", "link":"images/18.jpg", "size": 34, "features": "catalu rajoy"},
+     {"name": "cluster_19",  "label": "Puigdemont", "link":"images/19.jpg", "size": 38, "features": "day ndum puigdemont referir"},
+     {"name": "cluster_3",  "label": "Sánchez (PSOE) supports \"the Rule of Law despite this Gov\"", "link":"images/3.jpg", "size": 35, "features": "catalu rajoy ser"},
+     {"name": "cluster_4",  "label": "just want to vote", "link":"images/4.jpg", "size": 51, "features": "final ndum referendum referir"},
+     {"name": "cluster_5",  "label": "the repressione from Rajoy", "link":"images/5.jpg", "size": 38, "features": "catalu represi"}
+     ]
+  },
+    {
+   "name": "image_3",
+    "order": 3,
+   "children": [
+     {"name": "cluster_6",  "label": "Podemos supports the referendum", "link":"images/6.png", "size": 11, "features": "celebrar domingo ndum referir"},
+     {"name": "cluster_7",  "label": "the responsibility of the police", "link":"images/7.jpg", "size": 23, "features": "aguantar ajeno altura aplicar aprobar arreglar balanza brit burgues comparecer deber depender descubrir desgraciar devolvi dui est europeo gemir genocida gris llamamiento logo luego madurar manir nadie ndote necesario nicos okdiario orgulloso periodismo pertenecer plantar pol presidente presunto publico es puigdemont rajoy represi responsabilidad restar solidariz tambi tere ticos"},
+     {"name": "cluster_8",  "label": "brutal repression", "link":"images/8.jpg", "size": 31, "features": "aceptar brutal catalu dujxhrqesg hacer inacci madurar puto rajoy represor tiempo"},
+     {"name": "cluster_9",  "label": "the reference to venezuela", "link":"images/9.jpg", "size": 22, "features": "catalu herir hoy nicolasmaduro poblar rajoy represi"}
+     ]
+  }
+ ]
+}
